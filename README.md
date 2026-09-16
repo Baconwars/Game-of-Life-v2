@@ -1,4 +1,4 @@
-- Recreation of Conway's Game of Life
+# Recreation of Conway's Game of Life
 - Infinite 2d universe with dead and alive cells having 4 rules
 - Maximum FOV can be up to 1500x750 cells
 - Button to start, pause, clear
