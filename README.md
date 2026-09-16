@@ -7,4 +7,4 @@
 - Save & load system with 10 data slots
 - Speed of generation can be scaled from 5 to 300 per second
 - Pressing enter key can run 1 generation at a time, holding it makes speed of generations faster
-- Coded by Java used AI tools
+- Coded by Java and used AI tools
