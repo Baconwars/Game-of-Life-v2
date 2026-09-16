@@ -1,10 +1,10 @@
-Recreation of Conway's Game of Life
-Infinite 2d universe with dead and alive cells having 4 rules
-Maximum FOV can be up to 1500x750 cells
-Button to start, pause, clear
-Copy and paste systems with clear highlights and rotating system by pressing r while pasting
-On/Off grid button
-Save & load system with 10 data slots
-Speed of generation can be scaled from 5 to 300 per second
-Pressing enter key can run 1 generation at a time, holding it makes speed of generations faster
+- Recreation of Conway's Game of Life
+- Infinite 2d universe with dead and alive cells having 4 rules
+- Maximum FOV can be up to 1500x750 cells
+- Button to start, pause, clear
+- Copy and paste systems with clear highlights and rotating system by pressing r while pasting
+- On/Off grid button
+- Save & load system with 10 data slots
+- Speed of generation can be scaled from 5 to 300 per second
+- Pressing enter key can run 1 generation at a time, holding it makes speed of generations faster
 - Coded by Java used AI tools
